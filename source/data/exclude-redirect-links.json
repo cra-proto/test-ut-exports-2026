@@ -1,0 +1,242 @@
+[
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit.html",
+    "destination": "/test-ut-exports-2026/en/revenue-agency/services/child-family-benefits/canada-child-benefit.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit/get-payments.html",
+    "destination": "/test-ut-exports-2026/en/revenue-agency/services/child-family-benefits/canada-child-benefit/get-payments.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit/who-apply.html",
+    "destination": "/test-ut-exports-2026/en/revenue-agency/services/child-family-benefits/canada-child-benefit/who-apply.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit/how-apply.html",
+    "destination": "/test-ut-exports-2026/en/revenue-agency/services/child-family-benefits/canada-child-benefit/how-apply.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit/how-much.html",
+    "destination": "/test-ut-exports-2026/en/revenue-agency/services/child-family-benefits/canada-child-benefit/how-much.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit/canada-child-benefit-calculation-sheets.html",
+    "destination": "/test-ut-exports-2026/en/revenue-agency/services/child-family-benefits/canada-child-benefit/canada-child-benefit-calculation-sheets.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit/canada-child-benefit-ccb-calculation-sheet-july-2025-june-2026-payments-2024-tax-year.html",
+    "destination": "/test-ut-exports-2026/en/revenue-agency/services/child-family-benefits/canada-child-benefit/canada-child-benefit-ccb-calculation-sheet-july-2025-june-2026-payments-2024-tax-year.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit/canada-child-benefit-ccb-payment-amounts.html",
+    "destination": "/test-ut-exports-2026/en/revenue-agency/services/child-family-benefits/canada-child-benefit/canada-child-benefit-ccb-payment-amounts.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit/contact.html",
+    "destination": "/test-ut-exports-2026/en/revenue-agency/services/child-family-benefits/canada-child-benefit/contact.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit/payment-dates.html",
+    "destination": "/test-ut-exports-2026/en/revenue-agency/services/child-family-benefits/canada-child-benefit/payment-dates.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit/banana.html",
+    "destination": "/test-ut-exports-2026/en/revenue-agency/services/child-family-benefits/canada-child-benefit/banana.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits.html",
+    "destination": "/test-ut-exports-2026/en/revenue-agency/services/child-family-benefits.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/keep-your-information-date.html",
+    "destination": "/test-ut-exports-2026/en/revenue-agency/services/child-family-benefits/keep-your-information-date.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/automated-benefits-application.html",
+    "destination": "/test-ut-exports-2026/en/revenue-agency/services/child-family-benefits/automated-benefits-application.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/child-family-benefits-calculator.html",
+    "destination": "/test-ut-exports-2026/en/revenue-agency/services/child-family-benefits/child-family-benefits-calculator.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/benefit-payment-dates.html",
+    "destination": "/test-ut-exports-2026/en/revenue-agency/services/child-family-benefits/benefit-payment-dates.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/ctb9.html",
+    "destination": "/test-ut-exports-2026/en/revenue-agency/services/forms-publications/forms/ctb9.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc66.html",
+    "destination": "/test-ut-exports-2026/en/revenue-agency/services/forms-publications/forms/rc66.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc66sch.html",
+    "destination": "/test-ut-exports-2026/en/revenue-agency/services/forms-publications/forms/rc66sch.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4476-ab.html",
+    "destination": "/test-ut-exports-2026/en/revenue-agency/services/forms-publications/publications/rc4476-ab.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4476-ab/birth-registration-canada-child-benefits.html",
+    "destination": "/test-ut-exports-2026/en/revenue-agency/services/forms-publications/publications/rc4476-ab/birth-registration-canada-child-benefits.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4476-bc.html",
+    "destination": "/test-ut-exports-2026/en/revenue-agency/services/forms-publications/publications/rc4476-bc.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4476-bc/birth-registration-canada-child-benefits.html",
+    "destination": "/test-ut-exports-2026/en/revenue-agency/services/forms-publications/publications/rc4476-bc/birth-registration-canada-child-benefits.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4476-nt.html",
+    "destination": "/test-ut-exports-2026/en/revenue-agency/services/forms-publications/publications/rc4476-nt.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4476-nt/birth-registration-canada-child-benefits.html",
+    "destination": "/test-ut-exports-2026/en/revenue-agency/services/forms-publications/publications/rc4476-nt/birth-registration-canada-child-benefits.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4476-yt.html",
+    "destination": "/test-ut-exports-2026/en/revenue-agency/services/forms-publications/publications/rc4476-yt.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4476-yt/birth-registration-canada-child-benefits.html",
+    "destination": "/test-ut-exports-2026/en/revenue-agency/services/forms-publications/publications/rc4476-yt/birth-registration-canada-child-benefits.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4114.html",
+    "destination": "/test-ut-exports-2026/en/revenue-agency/services/forms-publications/publications/t4114.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4114/canada-child-benefit.html",
+    "destination": "/test-ut-exports-2026/en/revenue-agency/services/forms-publications/publications/t4114/canada-child-benefit.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/news/cra-multimedia-library/podcasts/taxology-episode-7-parenting-perks-about-ccb.html",
+    "destination": "/test-ut-exports-2026/en/revenue-agency/news/cra-multimedia-library/podcasts/taxology-episode-7-parenting-perks-about-ccb.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants.html",
+    "destination": "/test-ut-exports-2026/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants/recevoir-versements.html",
+    "destination": "/test-ut-exports-2026/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants/recevoir-versements.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants/qui-demande.html",
+    "destination": "/test-ut-exports-2026/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants/qui-demande.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants/comment-demande.html",
+    "destination": "/test-ut-exports-2026/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants/comment-demande.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants/combien-recevoir.html",
+    "destination": "/test-ut-exports-2026/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants/combien-recevoir.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants/feuilles-calcul-allocation-canadienne-enfants.html",
+    "destination": "/test-ut-exports-2026/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants/feuilles-calcul-allocation-canadienne-enfants.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants/allocation-canadienne-enfants-ace-feuille-calcul-prestations-juillet-2025-juin-2026-annee-imposition-2024.html",
+    "destination": "/test-ut-exports-2026/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants/allocation-canadienne-enfants-ace-feuille-calcul-prestations-juillet-2025-juin-2026-annee-imposition-2024.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants/montant-versements-allocation-canadienne-enfants-juillet-2016-a-juin-2018-annees-imposition-2015-2016.html",
+    "destination": "/test-ut-exports-2026/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants/montant-versements-allocation-canadienne-enfants-juillet-2016-a-juin-2018-annees-imposition-2015-2016.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants/contactez.html",
+    "destination": "/test-ut-exports-2026/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants/contactez.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants/dates-versement.html",
+    "destination": "/test-ut-exports-2026/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants/dates-versement.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants/banane.html",
+    "destination": "/test-ut-exports-2026/fr/agence-revenu/services/prestations-enfants-familles/allocation-canadienne-enfants/banane.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/prestations-enfants-familles.html",
+    "destination": "/test-ut-exports-2026/fr/agence-revenu/services/prestations-enfants-familles.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/prestations-enfants-familles/gardez-vos-renseignements-a-jour.html",
+    "destination": "/test-ut-exports-2026/fr/agence-revenu/services/prestations-enfants-familles/gardez-vos-renseignements-a-jour.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/prestations-enfants-familles/demande-prestations-automatisee.html",
+    "destination": "/test-ut-exports-2026/fr/agence-revenu/services/prestations-enfants-familles/demande-prestations-automatisee.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/prestations-enfants-familles/calculateur-prestations-enfants-familles.html",
+    "destination": "/test-ut-exports-2026/fr/agence-revenu/services/prestations-enfants-familles/calculateur-prestations-enfants-familles.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/prestations-enfants-familles/dates-versement-prestations.html",
+    "destination": "/test-ut-exports-2026/fr/agence-revenu/services/prestations-enfants-familles/dates-versement-prestations.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/formulaires/ctb9.html",
+    "destination": "/test-ut-exports-2026/fr/agence-revenu/services/formulaires-publications/formulaires/ctb9.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/formulaires/rc66.html",
+    "destination": "/test-ut-exports-2026/fr/agence-revenu/services/formulaires-publications/formulaires/rc66.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/formulaires/rc66sch.html",
+    "destination": "/test-ut-exports-2026/fr/agence-revenu/services/formulaires-publications/formulaires/rc66sch.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/rc4476-ab.html",
+    "destination": "/test-ut-exports-2026/fr/agence-revenu/services/formulaires-publications/publications/rc4476-ab.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/rc4476-ab/declaration-naissance-prestations-canadiennes-enfants.html",
+    "destination": "/test-ut-exports-2026/fr/agence-revenu/services/formulaires-publications/publications/rc4476-ab/declaration-naissance-prestations-canadiennes-enfants.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/rc4476-bc.html",
+    "destination": "/test-ut-exports-2026/fr/agence-revenu/services/formulaires-publications/publications/rc4476-bc.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/rc4476-bc/rc4476-bc-declaration-naissance-prestations-canadiennes-enfants.html",
+    "destination": "/test-ut-exports-2026/fr/agence-revenu/services/formulaires-publications/publications/rc4476-bc/rc4476-bc-declaration-naissance-prestations-canadiennes-enfants.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/rc4476-nt.html",
+    "destination": "/test-ut-exports-2026/fr/agence-revenu/services/formulaires-publications/publications/rc4476-nt.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/rc4476-nt/declaration-naissance-prestations-canadiennes-enfants.html",
+    "destination": "/test-ut-exports-2026/fr/agence-revenu/services/formulaires-publications/publications/rc4476-nt/declaration-naissance-prestations-canadiennes-enfants.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/rc4476-yt.html",
+    "destination": "/test-ut-exports-2026/fr/agence-revenu/services/formulaires-publications/publications/rc4476-yt.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/rc4476-yt/declaration-naissance-prestations-canadiennes-enfants.html",
+    "destination": "/test-ut-exports-2026/fr/agence-revenu/services/formulaires-publications/publications/rc4476-yt/declaration-naissance-prestations-canadiennes-enfants.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/t4114.html",
+    "destination": "/test-ut-exports-2026/fr/agence-revenu/services/formulaires-publications/publications/t4114.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/t4114/allocation-canadienne-enfants.html",
+    "destination": "/test-ut-exports-2026/fr/agence-revenu/services/formulaires-publications/publications/t4114/allocation-canadienne-enfants.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/nouvelles/bibliotheque-multimedia-arc/balados/impologie-episode-7-ace-coup-pouce-parents.html",
+    "destination": "/test-ut-exports-2026/fr/agence-revenu/nouvelles/bibliotheque-multimedia-arc/balados/impologie-episode-7-ace-coup-pouce-parents.html"
+  }
+]
